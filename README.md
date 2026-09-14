@@ -18,6 +18,13 @@ Download the editable `.epro2` project, Gerber, BOM and placement files as indiv
 
 [Development history](CHANGELOG.md) lists the design changes.
 
+## Assembly preview
+
+Explore the concept aircraft assembly:
+
+- [Assembly video (MP4)](https://github.com/hx23840/S3-PX4-FC/releases/download/V016-R2/S3-PX4-FC-assembly-preview.mp4) — a short recording of the assembly animation.
+- [Online assembly explorer](https://s3-px4-assembly.pages.dev/) — rotate the model and explore assembled, internal and exploded views.
+
 ## Repository
 
 - [docs/](docs/README.md): hardware downloads and release instructions.

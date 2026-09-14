@@ -18,6 +18,13 @@
 
 [开发记录](CHANGELOG.zh-CN.md)列出设计改动。
 
+## 装配预览
+
+查看概念整机的装配效果：
+
+- [装配演示视频（MP4）](https://github.com/hx23840/S3-PX4-FC/releases/download/V016-R2/S3-PX4-FC-assembly-preview.mp4)：装配动画的简短录屏。
+- [在线装配预览](https://s3-px4-assembly.pages.dev/)：旋转模型，查看完整装配、内部结构和爆炸视图。
+
 ## 仓库内容
 
 - [docs/](docs/README.zh-CN.md)：硬件下载和版本发布说明。
