@@ -4,6 +4,10 @@ English | [简体中文](README.zh-CN.md)
 
 An ESP32-S3 flight-controller hardware project, designed by Peter using Codex + GPT-6 Astra.
 
+https://github.com/user-attachments/assets/9a856ec8-94fd-4361-a7dd-2fc33b27a7e5
+
+**[Explore the assembly in 3D](https://s3-px4-assembly.pages.dev/)**
+
 The design includes an IMU, barometer, microSD storage, four ESC control outputs and receiver, GNSS and camera interfaces. PX4 is the intended firmware platform; board support and first-board testing are unfinished. PCB manufacturing has been submitted.
 
 ## Develop with AI
@@ -17,13 +21,6 @@ The design includes an IMU, barometer, microSD storage, four ESC control outputs
 Download the editable `.epro2` project, Gerber, BOM and placement files as individual GitHub Release attachments. See [downloads and version contents](docs/releases.md).
 
 [Development history](CHANGELOG.md) lists the design changes.
-
-## Assembly preview
-
-Explore the concept aircraft assembly:
-
-- [Assembly video (MP4)](https://github.com/hx23840/S3-PX4-FC/releases/download/V016-R2/S3-PX4-FC-assembly-preview.mp4) — a short recording of the assembly animation.
-- [Online assembly explorer](https://s3-px4-assembly.pages.dev/) — rotate the model and explore assembled, internal and exploded views.
 
 ## Repository
 
